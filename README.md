@@ -1,7 +1,7 @@
 # Prueba2
 #include <DHT.h>//Libreria
 #define DHTPIN 8 
-int rojo = 3;
+int VERDE = 3;
 int azul = 4;
 DHT dht(DHTPIN, DHTTYPE);
 void setup() {
